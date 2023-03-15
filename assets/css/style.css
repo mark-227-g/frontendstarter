@@ -1,0 +1,23 @@
+/************************************** 
+Default page style for 
+box-sizing, padding, margin  
+**************************************/
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/************************************** 
+Default body style for
+font-family, margin
+**************************************/
+body {
+  font-family: Arial;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+}
